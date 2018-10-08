@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Primer_Evaluacion</string>
+    <string name="btnNuevo">Nuevo Estudiante</string>
+    <string name="btnLista">Lista Estudiantes</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblCodigo">Codigo</string>
+    <string name="lblMateria">Materia</string>
+    <string name="lblPrimerParcial" >Primer Parcial:   30%</string>
+    <string name="lblSegundoParcial">Segundo Parcial:  30%</string>
+    <string name="lblTercerParcial" >Tercer Parcial:   40%</string>
+    <string name="btnGuardar">Guardar</string>
+</resources>
